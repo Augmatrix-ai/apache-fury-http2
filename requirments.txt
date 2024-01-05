@@ -1,0 +1,10 @@
+google==3.0.0
+pdfminer.six==20231228
+numpy==1.26.2
+hyper[h2]
+pyfury
+pyopenssl
+twisted[http2]
+bson
+pyarrow
+git+https://github.com/capnproto/pycapnp.git
